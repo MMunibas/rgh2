@@ -1,4 +1,4 @@
-(1.) 2A' potential energy surface for Ne---H2+ system.
+(1.) Potential energy surface for Ne---H2+ system.
 
 Requirements:
 
